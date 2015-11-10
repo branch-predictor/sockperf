@@ -19,4 +19,4 @@ This is only a quick and dirty experiment so anyone interested can evaluate it a
    
 5. Repeat step 4 if necessary
 6. fg
-7. <ctrl+c> to kill spsrv
+7. ctrl+c to kill spsrv
